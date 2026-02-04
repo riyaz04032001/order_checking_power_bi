@@ -91,3 +91,13 @@ This dashboard focuses on warehouse tracking, showing where orders are stored an
 •	Power BI for data visualization
 •	DAX (Data Analysis Expressions) for custom measures
 •	Power Query for data transformation# order_checking_power_bi
+
+---
+
+## 👤 Author
+**Riyaz Dudekula**  
+- LinkedIn: https://linkedin.com/in/driyaz0401  
+- Email: mailto:driyaz0401@gmail.com
+
+
+
