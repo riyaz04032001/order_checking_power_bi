@@ -61,12 +61,12 @@ This dashboard focuses on warehouse tracking, showing where orders are stored an
 •	Customer Order Dashboard:
 
 
-![Customer Sales Dashboard](report%20screenshots/customers_orders.png)
+![Customer Sales Dashboard](./report screenshots/customers_orders.png)
 
 
 •	Order Tracking Dashboard:
 
-![Customer Sales Dashboard](report%20screenshots/order_tracking.png)
+![Order Tracking Dashboard](./report screenshots/order_tracking.png)
 
 
 ----------------------------------------------------------
